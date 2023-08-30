@@ -1,0 +1,40 @@
+Angular 9
+1.Angular directives 
+  . Structurel - ngIf, ngFor
+  . Attribute - Textbox may hide show
+  . Component directive - add or remove component itself
+
+2.Dependancy injection
+  Instead of creating object creating it from outside
+  Dcoupled service, change at one place
+
+3.Angular Services 
+  Common logics shared across the components which can reuse
+  Using Dependancy injection
+
+4.Lazy loading 
+  On demand loading - Load what is necessary 
+  which improve the performance of the application 
+  Which can achieve by routing  
+  Keyword - LoadChildren
+  Single page application it loads the comeplete necessary pages
+ 
+5.Observable
+  Observable is stream of asynchrounous data
+  http post/get calls which can attach subscribe data.
+
+6.Routing
+  SPA with multiple views and navigate through that views
+  without losing app state and properties 
+
+7.Authguard
+  Which check the user have permission to go to the Screen
+  With JWT token 
+
+8.JWT token 
+  Compact selfcontained jason object which have email and password
+
+
+ORM
+Entity frame work - dev will fast , performance issue  
+Micro ORM , dapper framework - Id fast 

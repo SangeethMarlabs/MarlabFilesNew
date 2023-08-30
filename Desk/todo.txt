@@ -1,0 +1,13 @@
+(localdb)\MSSQLLocalDB
+https://www.javatpoint.com/react-component-life-cycle
+https://www.geeksforgeeks.org/reactjs-lifecycle-components/
+https://www.w3schools.com/react/react_lifecycle.asp
+https://reactjs.org/docs/state-and-lifecycle.html
+https://reactjs.org/docs/lists-and-keys.html
+
+Doing Practices
+React API - checked with Sonal 
+Need to do myself
+Spend some time on GIT
+
+

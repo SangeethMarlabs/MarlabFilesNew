@@ -1,0 +1,22 @@
+1.
+Attended the basic and mandatory trainings of .Net, MsSQL and Angular, had coding practices with the help of trainer and the team members.
+Attended the knowledge sharing sessions and webinars.
+Went through the project documentations and project related session video logs to understand the project and modules.
+The involved area in project was API and Unit tests which helped develop myself.
+Understood the basic operations of TFS version control.
+Had session on coding standards and applied the coding standards.
+
+2.
+Improved the the way of approaching the requirements and the time to achieve that.
+Had session on coding standards and applied the same. 
+Reviewed the code myself and requested TL to review the same, and improved based on the suggestions.
+Tried to create reusable codes.
+The assigned tasks are completed - API and the Unit tests.
+Had sessions with the team members on knowledge sharing
+Involved with the Team members when facing issues and also seek help from them.
+
+3.
+Understood the flow / functionality of assigned task by debugging the legacy WPF Application.
+The complete area of approaching the assigned tasks were improved.
+Had knowledge sharing sessions with the team members when a deal with new techniques.
+Followed the specific coding standards.
