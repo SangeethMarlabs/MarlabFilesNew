@@ -1,0 +1,11 @@
+scoped temp table
+docker container 
+sql injection 
+
+ci cd pipeline 
+how to check before prod
+
+abstract class interface 
+example 
+
+certificates

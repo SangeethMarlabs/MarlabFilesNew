@@ -1,0 +1,46 @@
+PS D:\SAN\new> npx create-react-app new-app
+npm ERR! code ETIMEDOUT
+npm ERR! syscall connect
+npm ERR! errno ETIMEDOUT
+npm ERR! network request to https://registry.npmjs.org/create-react-app failed, reason: connect ETIMEDOUT 104.16.23.35:443
+npm ERR! network This is a problem related to network connectivity.
+npm ERR! network In most cases you are behind a proxy or have bad network settings.
+npm ERR! network 
+npm ERR! network If you are behind a proxy, please make sure that the
+npm ERR! network 'proxy' config is set properly.  See: 'npm help config'
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\Sangeeth.Sudhakaran\AppData\Local\npm-cache\_logs\2023-07-24T06_20_32_024Z-debug-0.log
+
+Creating a new React app in D:\SAN\new\new-app.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts with cra-template...
+
+Terminate batch job (Y/N)? y
+PS D:\SAN\new> npm config delete proxy
+PS D:\SAN\new> npx create-react-app new-app   
+npm ERR! code ETIMEDOUT
+npm ERR! syscall connect
+npm ERR! errno ETIMEDOUT
+npm ERR! network request to https://registry.npmjs.org/create-react-app failed, reason: connect ETIMEDOUT 104.16.22.35:443
+npm ERR! network This is a problem related to network connectivity.
+npm ERR! network In most cases you are behind a proxy or have bad network settings.
+npm ERR! network
+npm ERR! network If you are behind a proxy, please make sure that the
+npm ERR! network 'proxy' config is set properly.  See: 'npm help config'
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\Sangeeth.Sudhakaran\AppData\Local\npm-cache\_logs\2023-07-24T06_28_50_145Z-debug-0.log
+The directory new-app contains files that could conflict:
+
+  package.json
+
+Either try using a new directory name, or remove the files listed above.
+PS D:\SAN\new> npx create-react-app new-app
+The directory new-app contains files that could conflict:
+
+  package.json
+
+Either try using a new directory name, or remove the files listed above.
+PS D:\SAN\new>   

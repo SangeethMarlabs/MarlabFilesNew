@@ -1,0 +1,31 @@
+S: Single Responsibility Principle (SRP)
+O: Open-closed Principle (OCP)
+L: Liskov substitution Principle (LSP)
+I: Interface Segregation Principle (ISP)
+D: Dependency Inversion Principle (DIP)
+
+Design pattern - creational, structural, behaviuoral
+
+Abstract Class - no multi inheritance
+both declaration and implementation
+It contain constructor.
+public, private, protected etc.
+The performance is fast.
+
+Interface
+only the declaration of methods, properties, events
+Multiple inheritance is achieved by interface.
+everything is public.
+
+foreach (char c in str)
+{
+   int count = str.Length - str.Replace(c, "").Length; 
+   console.writeLine(c + ' count ' + count);
+}
+
+Dictionary - key/value pairs of same type. no boxing/ unboxing. faster
+Hashtable - diff datatypes, boxing/ unboxing. slower
+
+WHERE Clause cannot contain aggregate function
+HAVING Clause can only be used with SELECT statement.
+HAVING Clause is used after GROUP BY Clause
